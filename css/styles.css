@@ -1,0 +1,56 @@
+html {height: 100%}
+body{
+  background-color: #d2c1ad;
+  height: 100%;
+}
+
+
+h1 {
+  color: #b48708;
+  font-size: 80px;
+  font-weight: 300;
+  font-family: 'Bookman', 'URW Bookman L', serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 48px;
+  margin: 0;
+}
+h2 {
+  color: #997438;
+  font-size: 80px;
+  font-weight: 300;
+  font-family: 'Bookman', 'URW Bookman L', serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 48px;
+  margin: 0;
+}
+
+
+.nav-link .active{
+  color: #997438;
+}
+
+
+.FieldInfo{
+  color: #fbbd5c;
+  font-family: Bitter, Georgia, "Times New Roman", Times, Serif;
+  font-size: 1.2em;
+}
+
+#Footer{
+  padding: 10px;
+  border-top: 1px #262a19;
+  color: #d2c1ad;
+  background-color: #997438;
+  text-align: center;
+}
+
+hr { /* Линия, там де Footer */
+  height: 1px;
+  border-top: 1px #4a513b;
+  color: #4a513b;
+  background-color: #4a513b;
+  margin: 1em 0;
+  padding: 0;
+}

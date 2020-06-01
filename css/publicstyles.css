@@ -1,0 +1,42 @@
+.bg-custom{
+  background-color: #262a19;
+}
+
+h1 { /* Потом h2 поменяю, надо чтоб разницу сравнивать */
+  color: #997438;
+  font-size: 80px;
+  font-weight: 300;
+  font-family: 'Bookman', 'URW Bookman L', serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 48px;
+  margin: 0;
+}
+
+
+
+h4 .card.card-title{
+  font-size: 80px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 48px;
+  margin: 0;
+}
+
+#Footer{
+  padding: 10px;
+  border-top: 1px #262a19;
+  color: #d2c1ad;
+  background-color: #997438;
+  text-align: center;
+}
+
+hr { /* Линия, там де Footer */
+  height: 1px;
+  border-top: 1px #4a513b;
+  color: #4a513b;
+  background-color: #4a513b;
+  margin: 1em 0;
+  padding: 0;
+}
